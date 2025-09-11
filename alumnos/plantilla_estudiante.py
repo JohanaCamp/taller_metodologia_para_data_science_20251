@@ -7,8 +7,8 @@ Instrucciones:
 3) Ejecuta: python plantilla_estudiante.py (opcional, para probar).
 """
 
-NAME = ""
-ROLE = ""
+NAME = "Johana Campos"
+ROLE = "Data Engineer"
 
 
 def presentacion(name: str = NAME, role: str = ROLE) -> str:
